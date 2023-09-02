@@ -1,8 +1,9 @@
-import Search from "./components/search/Search";
+import Landing from "./pages/landing/Landing";
+
 function App() {
   return (
     <>
-      <Search />
+      <Landing />
     </>
   );
 }
