@@ -1,9 +1,8 @@
-import "./App.css";
-
+import Search from "./components/search/Search";
 function App() {
   return (
     <>
-      <h1>Hello World</h1>
+      <Search />
     </>
   );
 }
